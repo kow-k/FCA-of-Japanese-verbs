@@ -23,4 +23,6 @@ formal context (fc) 構築のための Excel 作業本:
 
 # FCA tools
 
+上の .csv 形式の fc [1,2] を元に Hasse 図を描くための FCA 実行系:
+
 [Concept Explorer 1.3](http://conexp.sourceforge.net/)
